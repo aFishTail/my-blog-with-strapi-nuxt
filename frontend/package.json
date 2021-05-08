@@ -12,6 +12,12 @@
     "lint": "eslint --ext .js,.vue .",
     "lint:fix": "eslint --ext .js,.vue . --fix"
   },
+  "config": {
+    "nuxt": {
+      "host": "0.0.0.0",
+      "post": 3000
+    }
+  },
   "dependencies": {
     "@nuxtjs/markdownit": "^1.2.7",
     "@nuxtjs/strapi": "^0.1.6",
