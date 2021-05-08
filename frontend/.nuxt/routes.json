@@ -1,0 +1,23 @@
+[
+  {
+    "name": "articles-slug",
+    "path": "/articles/:slug?",
+    "component": "/Users/wangheng/Documents/个人项目/my-site/frontend/pages/articles/_slug.vue",
+    "chunkName": "pages/articles/_slug",
+    "_name": "_6e104bd4"
+  },
+  {
+    "name": "categories-slug",
+    "path": "/categories/:slug?",
+    "component": "/Users/wangheng/Documents/个人项目/my-site/frontend/pages/categories/_slug.vue",
+    "chunkName": "pages/categories/_slug",
+    "_name": "_51c3c3f3"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/wangheng/Documents/个人项目/my-site/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_fc989c34"
+  }
+]
